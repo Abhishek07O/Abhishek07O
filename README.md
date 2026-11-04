@@ -63,9 +63,10 @@
 
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek07O&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek07O&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek07O&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek07O&layout=compact&theme=tokyonight)
+
 
