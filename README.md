@@ -47,17 +47,19 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Zomato Data Analysis
-Performed Exploratory Data Analysis to identify customer and restaurant trends.
+### 🍕 Pizza Sales Analysis using SQL
 
-### 🔹 Sales Dashboard using Power BI
-Created an interactive dashboard to monitor sales KPIs and business performance.
+**Tools:** MySQL | SQL
 
-### 🔹 Netflix Data Analysis
-Analyzed Netflix dataset to discover content trends and genre distribution.
+- Analyzed pizza sales data using SQL to identify business trends and sales performance.
+- Solved 13 business questions using SQL queries.
+- Calculated total orders, revenue, and pizza quantities.
+- Identified top-selling pizzas and highest-revenue categories.
+- Analyzed hourly order patterns and daily sales trends.
+- Used JOINs, Subqueries, Aggregate Functions, CTE-style derived tables, and Window Functions.
 
-### 🔹 Customer Churn Analysis
-Analyzed customer behavior and identified factors influencing churn.
+🔗 **[View Project Repository](https://github.com/Abhishek07O/pizza-sales-sql-analysis)**
+
 
 
 
