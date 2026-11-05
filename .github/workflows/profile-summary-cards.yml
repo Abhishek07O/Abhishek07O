@@ -1,4 +1,5 @@
 
+
 name: GitHub Profile Summary Cards
 
 on:
@@ -13,10 +14,12 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-      GITHUB_TOKEN: ${{ secrets.SUMMARY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_TOKEN }}
         with:
           USERNAME: Abhishek07O
