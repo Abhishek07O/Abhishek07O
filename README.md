@@ -64,14 +64,15 @@
 
 
 
-## 📊 GitHub Stats
 
-![Stats](./profile-summary-card-output/2077/0-profile-details.svg)
+## 📊 GitHub Statistics
 
-![Repos per Language](./profile-summary-card-output/2077/1-repos-per-language.svg)
+![Profile Details](./profile-summary-card-output/2077/0-profile-details.svg)
 
-![Most Commit Language](./profile-summary-card-output/2077/2-most-commit-language.svg)
+![Stats](./profile-summary-card-output/2077/3-stats.svg)
 
-![Stats Overview](./profile-summary-card-output/2077/3-stats.svg)
+![Top Languages by Repository](./profile-summary-card-output/2077/1-repos-per-language.svg)
+
+![Top Languages by Commit](./profile-summary-card-output/2077/2-most-commit-language.svg)
 
 ![Productive Time](./profile-summary-card-output/2077/4-productive-time.svg)
