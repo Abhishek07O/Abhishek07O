@@ -63,10 +63,15 @@
 
 
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek07O&show_icons=true&theme=tokyonight)
+![Stats](./profile-summary-card-output/2077/0-profile-details.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek07O&layout=compact&theme=tokyonight)
+![Repos per Language](./profile-summary-card-output/2077/1-repos-per-language.svg)
 
+![Most Commit Language](./profile-summary-card-output/2077/2-most-commit-language.svg)
 
+![Stats Overview](./profile-summary-card-output/2077/3-stats.svg)
+
+![Productive Time](./profile-summary-card-output/2077/4-productive-time.svg)
